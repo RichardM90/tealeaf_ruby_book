@@ -1,0 +1,6 @@
+# To exit pry use ctrl-D
+require "pry"
+a = [1,2,3]
+a << 4
+binding.pry
+puts a
