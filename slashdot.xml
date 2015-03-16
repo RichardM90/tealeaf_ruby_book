@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns:admin="http://webns.net/mvcb/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">
+
+<channel rdf:about="http://slashdot.org/">
+<title>Slashdot</title>
+<link>http://slashdot.org/</link>
+<description>News for nerds, stuff that matters</description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright 1997-2015, Dice. All Rights Reserved. Slashdot is a Dice Holdings, Inc. service</dc:rights>
+<dc:date>2015-03-13T20:07:10+00:00</dc:date>
+<dc:publisher>Dice</dc:publisher>
+<dc:creator>help@slashdot.org</dc:creator>
+<dc:subject>Technology</dc:subject>
+<syn:updateBase>1970-01-01T00:00+00:00</syn:updateBase>
+<syn:updateFrequency>1</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://tech.slashdot.org/story/15/03/13/1920248/oldest-dot-com-domain-turning-30?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://build.slashdot.org/story/15/03/13/1652231/maker-person-rich-olson-returns-video?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://news.slashdot.org/story/15/03/13/1818259/in-historic-turn-co2-emissions-flatline-in-2014-even-as-global-economy-grows?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://tech.slashdot.org/story/15/03/13/1648227/google-error-leaks-website-owners-personal-information?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://science.slashdot.org/story/15/03/13/1533230/new-molecular-3d-printer-can-create-billions-of-compounds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://tech.slashdot.org/story/15/03/13/1516256/twitter-will-ban-revenge-porn-and-non-consensual-nudes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://it.slashdot.org/story/15/03/13/155223/panda-antivirus-flags-itself-as-malware?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://news.slashdot.org/story/15/03/13/1345202/swedish-authorities-offer-to-question-assange-in-london?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://yro.slashdot.org/story/15/03/13/1325243/ibm-reported-to-be-developing-blockchain-based-currency-transaction-system?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://it.slashdot.org/story/15/03/13/1321222/obama-administration-wants-more-legal-power-to-disrupt-botnets?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://hardware.slashdot.org/story/15/03/13/1156245/us-wind-power-is-expected-to-double-in-the-next-5-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://yro.slashdot.org/story/15/03/12/2229254/lapd-police-claim-helicopters-stop-crimes-before-they-happen?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://science.slashdot.org/story/15/03/13/0237244/huge-ocean-confirmed-underneath-solar-systems-largest-moon?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://news.slashdot.org/story/15/03/13/0233249/uber-rival-lyft-raises-530m-will-beef-up-it?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://science.slashdot.org/story/15/03/12/2223236/berkeley-builds-a-heart-simulator?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+ </rdf:Seq>
+</items>
+<image rdf:resource="http://a.fsdn.com/sd/topics/topicslashdot.gif" />
+<textinput rdf:resource="http://slashdot.org/search.pl" />
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rdf+xml" href="http://rss.slashdot.org/Slashdot/slashdot" /><feedburner:info uri="slashdot/slashdot" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /></channel>
+<image rdf:about="http://a.fsdn.com/sd/topics/topicslashdot.gif">
+<title>Slashdot</title>
+<url>http://a.fsdn.com/sd/topics/topicslashdot.gif</url>
+<link>http://slashdot.org/</link>
+</image>
+<item rdf:about="http://tech.slashdot.org/story/15/03/13/1920248/oldest-dot-com-domain-turning-30?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Oldest Dot-com Domain Turning 30</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/yCEY21ew2cg/oldest-dot-com-domain-turning-30</link>
+<description>netbuzz writes: On March 15, 1985, Symbolics, Inc, maker of Lisp computers, registered the Internet's first dot-com address: Symbolics.com. Sunday will mark the 30th anniversary of that registration. And while Symbolics has been out of business for years, the address was sold in 2009 for an undisclosed sum to a speculator who said: "For us to own the first domain is very special to our company, and we feel blessed for having the ability to obtain this unique property." Today there's not much there.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Oldest+Dot-com+Domain+Turning+30%3A+http%3A%2F%2Fbit.ly%2F1F9Vxj7"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Ftech.slashdot.org%2Fstory%2F15%2F03%2F13%2F1920248%2Foldest-dot-com-domain-turning-30%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://tech.slashdot.org/story/15/03/13/1920248/oldest-dot-com-domain-turning-30?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://tech.slashdot.org/story/15/03/13/1920248/oldest-dot-com-domain-turning-30?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7096989&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/yCEY21ew2cg" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-03-13T19:57:00+00:00</dc:date>
+<dc:subject>internet</dc:subject>
+<slash:department>counts-as-a-digital-antique</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>4</slash:comments>
+<slash:hit_parade>4,4,2,1,0,0,0</slash:hit_parade>
+<feedburner:origLink>http://tech.slashdot.org/story/15/03/13/1920248/oldest-dot-com-domain-turning-30?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://build.slashdot.org/story/15/03/13/1652231/maker-person-rich-olson-returns-video?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Maker Person Rich Olson Returns (Video)</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/Gkb46k0A6Es/maker-person-rich-olson-returns-video</link>
+<description>In February we ran a video titled Rich Olson Embodies the Spirit of the Maker Movement. We aren't saying Rich is a superman, but more like everyman or, in this case, everymaker. He is a hobbyist who, like many others, shares his designs freely in the best spirit of open source. Today we have some more words from Rich that may help you if you are just starting to use a 3-D printer and similar tools either at home or in a makerspace. and a note: If you know someone we should interview, please email robinATroblimoDOTCOM.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Maker+Person+Rich+Olson+Returns+(Video)%3A+http%3A%2F%2Fbit.ly%2F1GAyzjM"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fbuild.slashdot.org%2Fstory%2F15%2F03%2F13%2F1652231%2Fmaker-person-rich-olson-returns-video%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://build.slashdot.org/story/15/03/13/1652231/maker-person-rich-olson-returns-video?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://build.slashdot.org/story/15/03/13/1652231/maker-person-rich-olson-returns-video?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7096613&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/Gkb46k0A6Es" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Roblimo</dc:creator>
+<dc:date>2015-03-13T19:15:00+00:00</dc:date>
+<dc:subject>hardhack</dc:subject>
+<slash:department>not-everything-is-about-money</slash:department>
+<slash:section>build</slash:section>
+<slash:comments>19</slash:comments>
+<slash:hit_parade>19,16,2,1,0,0,0</slash:hit_parade>
+<feedburner:origLink>http://build.slashdot.org/story/15/03/13/1652231/maker-person-rich-olson-returns-video?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://news.slashdot.org/story/15/03/13/1818259/in-historic-turn-co2-emissions-flatline-in-2014-even-as-global-economy-grows?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>In Historic Turn, CO2 Emissions Flatline In 2014, Even As Global Economy Grows</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/qcaWTLZKoRI/in-historic-turn-co2-emissions-flatline-in-2014-even-as-global-economy-grows</link>
+<description>mdsolar sends this report from Forbes:
+A key stumbling block in the effort to combat global warming has been the intimate link between greenhouse gas emissions and economic growth. When times are good and industries are thriving, global energy use traditionally increases and energy-related carbon dioxide emissions also go up. Only when economies stumble and businesses shutter &amp;mdash; as during the most recent financial crisis &amp;mdash; does energy use typically decline, in turn bringing down planet-warming emissions. But for the first time in nearly half a century, that synchrony between economic growth and energy-related emissions seems to have been broken, according to the Paris-based International Energy Agency, prompting its chief economist to wonder if an important new pivot point has been reached &amp;mdash; one that decouples economic vigor and carbon pollution. The IEA pegged carbon dioxide emissions for 2014 at 32.3 billion metric tons &amp;mdash; essentially the same volume as 2013, even as the global economy grew at a rate of about 3 percent. Whether the disconnect is a mere fluke or a true harbinger of a paradigm shift is impossible to know. The IEA suggested that decreasing use of coal in China &amp;mdash; and upticks in renewable electricity generation there using solar, wind and hydropower &amp;mdash; could have contributed to the reversal.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=In+Historic+Turn%2C+CO2+Emissions+Flatline+In+2014%2C+Even+As+Global+Economy+Grows%3A+http%3A%2F%2Fbit.ly%2F19h5v6G"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fnews.slashdot.org%2Fstory%2F15%2F03%2F13%2F1818259%2Fin-historic-turn-co2-emissions-flatline-in-2014-even-as-global-economy-grows%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://news.slashdot.org/story/15/03/13/1818259/in-historic-turn-co2-emissions-flatline-in-2014-even-as-global-economy-grows?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://news.slashdot.org/story/15/03/13/1818259/in-historic-turn-co2-emissions-flatline-in-2014-even-as-global-economy-grows?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7096855&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/qcaWTLZKoRI" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-03-13T18:26:00+00:00</dc:date>
+<dc:subject>earth</dc:subject>
+<slash:department>getting-better-at-not-getting-worse</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>102</slash:comments>
+<slash:hit_parade>102,96,70,60,18,10,3</slash:hit_parade>
+<feedburner:origLink>http://news.slashdot.org/story/15/03/13/1818259/in-historic-turn-co2-emissions-flatline-in-2014-even-as-global-economy-grows?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://tech.slashdot.org/story/15/03/13/1648227/google-error-leaks-website-owners-personal-information?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Google Error Leaks Website Owners' Personal Information</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/q22GASGE68A/google-error-leaks-website-owners-personal-information</link>
+<description>itwbennett writes: A Google software problem inadvertently exposed the names, addresses, email addresses and phone numbers used to register websites after people had chosen to keep the information private.
+
+The privacy breach involves whois, a database that contains contact information for people who've bought domain names. For privacy reasons, people can elect to make information private, often by paying an extra fee. But Craig Williams, senior technical leader for Cisco's Talos research group, discovered that the privacy settings for domain names registered through the company eNom were being turned off right at the time when the domains were up for renewal, starting around mid-2013. Williams contacted Google, and in about six days the privacy settings had been restored. In a notice, Google blamed a "software defect." Cisco said in a blog post that some 282,867 domains were affected.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Google+Error+Leaks+Website+Owners'+Personal+Information%3A+http%3A%2F%2Fbit.ly%2F1AkcOki"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Ftech.slashdot.org%2Fstory%2F15%2F03%2F13%2F1648227%2Fgoogle-error-leaks-website-owners-personal-information%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://tech.slashdot.org/story/15/03/13/1648227/google-error-leaks-website-owners-personal-information?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://tech.slashdot.org/story/15/03/13/1648227/google-error-leaks-website-owners-personal-information?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7096603&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/q22GASGE68A" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-03-13T17:44:00+00:00</dc:date>
+<dc:subject>internet</dc:subject>
+<slash:department>users-registering-their-unhappiness</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>30</slash:comments>
+<slash:hit_parade>30,25,12,10,4,2,0</slash:hit_parade>
+<feedburner:origLink>http://tech.slashdot.org/story/15/03/13/1648227/google-error-leaks-website-owners-personal-information?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://science.slashdot.org/story/15/03/13/1533230/new-molecular-3d-printer-can-create-billions-of-compounds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>New Molecular 3D Printer Can Create Billions of Compounds</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/gFJV1x-_8ZE/new-molecular-3d-printer-can-create-billions-of-compounds</link>
+<description>ErnieKey writes: University of Illinois researchers have created a device, called a Molecular-Machine, which essentially manufactures on the molecular compound level. Martin Burke, the lead researcher on this project says that they are already able to synthesize over a billion different compounds with the machine, compounds which up until now have been very difficult to synthesize. The impact on the pharmaceutical industry could be staggering.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=New+Molecular+3D+Printer+Can+Create+Billions+of+Compounds%3A+http%3A%2F%2Fbit.ly%2F1NT8Ati"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fscience.slashdot.org%2Fstory%2F15%2F03%2F13%2F1533230%2Fnew-molecular-3d-printer-can-create-billions-of-compounds%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://science.slashdot.org/story/15/03/13/1533230/new-molecular-3d-printer-can-create-billions-of-compounds?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://science.slashdot.org/story/15/03/13/1533230/new-molecular-3d-printer-can-create-billions-of-compounds?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7096419&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/gFJV1x-_8ZE" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-03-13T17:01:00+00:00</dc:date>
+<dc:subject>biotech</dc:subject>
+<slash:department>go-big-or-go-home</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>82</slash:comments>
+<slash:hit_parade>82,78,54,42,11,7,4</slash:hit_parade>
+<feedburner:origLink>http://science.slashdot.org/story/15/03/13/1533230/new-molecular-3d-printer-can-create-billions-of-compounds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://tech.slashdot.org/story/15/03/13/1516256/twitter-will-ban-revenge-porn-and-non-consensual-nudes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Twitter Will Ban Revenge Porn and Non-consensual Nudes</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/BalmCjIaDC4/twitter-will-ban-revenge-porn-and-non-consensual-nudes</link>
+<description>AmiMoJo writes: Twitter has changed its rules to state it will forbid users from posting revenge porn and non-consensual nudes on its service. In the private information section of the site's policy list, the company added that users "may not post intimate photos or videos that were taken or distributed without the subject's consent." Twitter seemed to indicate that it would use some combination of automated and manual checks to decide whether a reported post is revenge porn or not before removing the post. "We will ask a reporting user to verify that he or she is the individual in question in content alleged to be violating our policy and to confirm that the photo or video in question was posted without consent." There will be an appeal process too. In February, reddit made a similar rules change after the site was embroiled in controversy for allowing the posting of stolen nude celebrity photos in 2014. Banning "involuntary pornography," reddit urged victims to e-mail the site with details so administrators could remove the offending posts.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Twitter+Will+Ban+Revenge+Porn+and+Non-consensual+Nudes%3A+http%3A%2F%2Fbit.ly%2F1F8UakD"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Ftech.slashdot.org%2Fstory%2F15%2F03%2F13%2F1516256%2Ftwitter-will-ban-revenge-porn-and-non-consensual-nudes%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://tech.slashdot.org/story/15/03/13/1516256/twitter-will-ban-revenge-porn-and-non-consensual-nudes?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://tech.slashdot.org/story/15/03/13/1516256/twitter-will-ban-revenge-porn-and-non-consensual-nudes?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7096369&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/BalmCjIaDC4" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-03-13T16:22:00+00:00</dc:date>
+<dc:subject>twitter</dc:subject>
+<slash:department>be-a-jerk-elsewhere</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>77</slash:comments>
+<slash:hit_parade>77,69,40,21,5,4,3</slash:hit_parade>
+<feedburner:origLink>http://tech.slashdot.org/story/15/03/13/1516256/twitter-will-ban-revenge-porn-and-non-consensual-nudes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://it.slashdot.org/story/15/03/13/155223/panda-antivirus-flags-itself-as-malware?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Panda Antivirus Flags Itself As Malware</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/_B4xfSxDDoc/panda-antivirus-flags-itself-as-malware</link>
+<description>An anonymous reader writes An update to a number of Panda antivirus programs Wednesday mistakenly flagged core files as malware, putting them in quarantine. In doing so, the antivirus system ceased working. Panda's free antivirus, retail 2015 service, and its enterprise cloud-based antimalware service are all affected. The company took to Twitter to warn users: "Please, don't reboot PCs. We'll keep you posted." In an advisory, Panda said the erroneous signature file was "repaired immediately," but warned under certain conditions it is possible for the "incident to persist."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Panda+Antivirus+Flags+Itself+As+Malware%3A+http%3A%2F%2Fbit.ly%2F1FYqaXd"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fit.slashdot.org%2Fstory%2F15%2F03%2F13%2F155223%2Fpanda-antivirus-flags-itself-as-malware%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://it.slashdot.org/story/15/03/13/155223/panda-antivirus-flags-itself-as-malware?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://it.slashdot.org/story/15/03/13/155223/panda-antivirus-flags-itself-as-malware?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7096351&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/_B4xfSxDDoc" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-03-13T15:40:00+00:00</dc:date>
+<dc:subject>security</dc:subject>
+<slash:department>self-fulfilling-prophecy</slash:department>
+<slash:section>it</slash:section>
+<slash:comments>62</slash:comments>
+<slash:hit_parade>62,61,38,25,8,7,5</slash:hit_parade>
+<feedburner:origLink>http://it.slashdot.org/story/15/03/13/155223/panda-antivirus-flags-itself-as-malware?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://news.slashdot.org/story/15/03/13/1345202/swedish-authorities-offer-to-question-assange-in-london?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Swedish Authorities Offer To Question Assange In London</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/8yI_ST3RNZ4/swedish-authorities-offer-to-question-assange-in-london</link>
+<description>An anonymous reader writes: Since 2012, WikiLeaks founder Julian Assange has been holed up inside Ecuador's embassy in London trying to avoid extradition to Sweden, where he faces a sexual assault investigation. Now, after the case has been stalled for years, Swedish prosecutors are arranging to come to London and question Assange within the embassy. According to his lawyer, Assange welcomes this, but Sweden still needs to be granted permission from both the UK and Ecuador. "Assange's lawyers, who are appealing against his arrest warrant in Sweden's highest court, have complained bitterly about the prosecutor's refusal to travel to London to speak to him &amp;ndash; an essential step under Swedish jurisprudence to establish whether Assange can be formally charged. [Lead investigator Marianne] Ny's refusal, they say, has condemned Assange to severe limitations on his freedom that are disproportionate to the accusations against him." Ny has also requested a DNA sample from Assange.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Swedish+Authorities+Offer+To+Question+Assange+In+London%3A+http%3A%2F%2Fbit.ly%2F1F8ws8e"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fnews.slashdot.org%2Fstory%2F15%2F03%2F13%2F1345202%2Fswedish-authorities-offer-to-question-assange-in-london%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://news.slashdot.org/story/15/03/13/1345202/swedish-authorities-offer-to-question-assange-in-london?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://news.slashdot.org/story/15/03/13/1345202/swedish-authorities-offer-to-question-assange-in-london?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7096141&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/8yI_ST3RNZ4" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-03-13T14:57:00+00:00</dc:date>
+<dc:subject>uk</dc:subject>
+<slash:department>my-place-or-yours</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>120</slash:comments>
+<slash:hit_parade>120,115,70,59,22,12,7</slash:hit_parade>
+<feedburner:origLink>http://news.slashdot.org/story/15/03/13/1345202/swedish-authorities-offer-to-question-assange-in-london?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://yro.slashdot.org/story/15/03/13/1325243/ibm-reported-to-be-developing-blockchain-based-currency-transaction-system?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>IBM Reported To Be Developing Blockchain-Based Currency Transaction System</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/C0xHT0QcQ_s/ibm-reported-to-be-developing-blockchain-based-currency-transaction-system</link>
+<description>An anonymous reader writes: According to a Reuters source, IBM is working with the U.S. Federal Reserve and other central banks to develop a digital currency transaction system using the same blockchain technology that underpins Bitcoin &amp;mdash; but which will deal with existing national currencies. The anonymous source says: "These coins will be part of the money supply...It's the same money, just not a dollar bill with a serial number on it, but a token that sits on this blockchain," Despite vocal community protest about the potential "co-opting" of a geographically-neutral cryptocurrency in favor of a centrally-controlled distributed transaction ledger, the IBM project, if true, is only one among hundreds seeking to leverage the blockchain for new transaction systems.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=IBM+Reported+To+Be+Developing+Blockchain-Based+Currency+Transaction+System%3A+http%3A%2F%2Fbit.ly%2F1MxZa4M"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fyro.slashdot.org%2Fstory%2F15%2F03%2F13%2F1325243%2Fibm-reported-to-be-developing-blockchain-based-currency-transaction-system%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://yro.slashdot.org/story/15/03/13/1325243/ibm-reported-to-be-developing-blockchain-based-currency-transaction-system?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://yro.slashdot.org/story/15/03/13/1325243/ibm-reported-to-be-developing-blockchain-based-currency-transaction-system?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7096089&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/C0xHT0QcQ_s" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-03-13T14:13:00+00:00</dc:date>
+<dc:subject>ibm</dc:subject>
+<slash:department>mining-your-own-business</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>64</slash:comments>
+<slash:hit_parade>64,63,41,29,10,4,0</slash:hit_parade>
+<feedburner:origLink>http://yro.slashdot.org/story/15/03/13/1325243/ibm-reported-to-be-developing-blockchain-based-currency-transaction-system?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://it.slashdot.org/story/15/03/13/1321222/obama-administration-wants-more-legal-power-to-disrupt-botnets?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Obama Administration Wants More Legal Power To Disrupt Botnets</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/KAA4wv1RdOQ/obama-administration-wants-more-legal-power-to-disrupt-botnets</link>
+<description>Trailrunner7 writes: The Obama administration has proposed an amendment to existing United Stated federal law that would give it a more powerful tool to go after botnets such as GameOver Zeus, Asprox and others. In recent years, Justice, along with private security firms and law enforcement agencies in Europe, have taken down various incarnations of a number of major botnets, including GameOver Zeus and Coreflood. These actions have had varying levels of success, with the GOZ takedown being perhaps the most effective, as it also had the effect of disrupting the infrastructure used by the CryptoLocker ransomware. In order to obtain an injunction in these cases, the government would need to sue the defendants in civil court and show that its suit is likely to succeed on its merits. "The Administration's proposed amendment would add activities like the operation of a botnet to the list of offenses eligible for injunctive relief. Specifically, the amendment would permit the department to seek an injunction to prevent ongoing hacking violations in cases where 100 or more victim computers have been hacked. This numerical threshold focuses the injunctive authority on enjoining the creation, maintenance, operation, or use of a botnet, as well as other widespread attacks on computers using malicious software (such as "ransomware" )," assistant attorney general Leslie Caldwell wrote.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Obama+Administration+Wants+More+Legal+Power+To+Disrupt+Botnets%3A+http%3A%2F%2Fbit.ly%2F1DePxGE"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fit.slashdot.org%2Fstory%2F15%2F03%2F13%2F1321222%2Fobama-administration-wants-more-legal-power-to-disrupt-botnets%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://it.slashdot.org/story/15/03/13/1321222/obama-administration-wants-more-legal-power-to-disrupt-botnets?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://it.slashdot.org/story/15/03/13/1321222/obama-administration-wants-more-legal-power-to-disrupt-botnets?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7096077&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/KAA4wv1RdOQ" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-03-13T13:31:00+00:00</dc:date>
+<dc:subject>botnet</dc:subject>
+<slash:department>hopefully-does-not-involve-drone-strikes</slash:department>
+<slash:section>it</slash:section>
+<slash:comments>57</slash:comments>
+<slash:hit_parade>57,54,40,28,11,7,4</slash:hit_parade>
+<feedburner:origLink>http://it.slashdot.org/story/15/03/13/1321222/obama-administration-wants-more-legal-power-to-disrupt-botnets?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://hardware.slashdot.org/story/15/03/13/1156245/us-wind-power-is-expected-to-double-in-the-next-5-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>US Wind Power Is Expected To Double In the Next 5 Years</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/Rzno-aK_0Uk/us-wind-power-is-expected-to-double-in-the-next-5-years</link>
+<description>merbs writes: The U.S. Department of Energy anticipates that the amount of electricity generated by wind power to more than double over the next five years. Right now, wind provides the nation with about 4.5 percent of its power. But an in-depth DOE report (PDF) released yesterday forecasts that number will rise to 10 percent by 2020&amp;mdash;then 20 percent by 2030, and 35 percent by 2050.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=US+Wind+Power+Is+Expected+To+Double+In+the+Next+5+Years%3A+http%3A%2F%2Fbit.ly%2F1Bd5eak"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fhardware.slashdot.org%2Fstory%2F15%2F03%2F13%2F1156245%2Fus-wind-power-is-expected-to-double-in-the-next-5-years%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://hardware.slashdot.org/story/15/03/13/1156245/us-wind-power-is-expected-to-double-in-the-next-5-years?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://hardware.slashdot.org/story/15/03/13/1156245/us-wind-power-is-expected-to-double-in-the-next-5-years?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7095749&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/Rzno-aK_0Uk" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-03-13T12:48:00+00:00</dc:date>
+<dc:subject>power</dc:subject>
+<slash:department>will-power-8-light-bulbs-instead-of-4</slash:department>
+<slash:section>hardware</slash:section>
+<slash:comments>204</slash:comments>
+<slash:hit_parade>204,199,164,140,28,12,9</slash:hit_parade>
+<feedburner:origLink>http://hardware.slashdot.org/story/15/03/13/1156245/us-wind-power-is-expected-to-double-in-the-next-5-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://yro.slashdot.org/story/15/03/12/2229254/lapd-police-claim-helicopters-stop-crimes-before-they-happen?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>LAPD Police Claim Helicopters Stop Crimes Before They Happen</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/qDd-E4okPIo/lapd-police-claim-helicopters-stop-crimes-before-they-happen</link>
+<description>HughPickens.com writes True Angelenos don't even bother to look up when one of the LAPD's 17 helicopters rattles their windows searching for a car-jacked Camry or an assault suspect hiding under a jacaranda but few doubt that more bad guys would get away without the nation's largest police helicopter fleet to help chase them. Now the LA Times reports that data shows that LA's helicopters are stopping crimes before they happen. Tapping into the data-driven policing trend, the department uses heat maps, technology and years of statistics to identify crime "hot spots." Pilots then use their downtime to fly over them, on the theory that would-be criminals tend to rethink their nefarious plans when there's "ghetto birds," as Ice Cube calls them, hovering overhead [explanatory video with annoying sound]. Months of data show that the number of serious crimes reported in the LAPD's Newton Division in South L.A. fell during weeks when the helicopters conducted more flights. During the week of Sept. 13, when the helicopter unit flew over Newton 65 times, the division recorded 90 crimes. A week later, the number of flights dropped to 40 and the number of reported crimes skyrocketed to 136, with rises seen among almost all types of crime, including burglary, car theft and thefts from vehicles. "It's extremely cutting edge," says Capt. Gary Walters, who heads the LAPD's air support unit. "It's different. It's nothing that we've ever done before with this specificity." 
+
+But Professor Geoffrey Alpert. a policing expert who has studied the use of police helicopters in Miami and Baltimore, says the choppers can deter crime in the short-term but criminals will likely return when they're not around (PDF). "You are deterring the criminals but you aren't getting rid of them and their intent. Those criminals could strike in a different time and place," says Alpert. "I mean that's the whole thing about random patrol. You see a police car and it's the same thing. You hide, he goes around the block and you go back to your breaking and entering."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=LAPD+Police+Claim+Helicopters+Stop+Crimes+Before+They+Happen%3A+http%3A%2F%2Fbit.ly%2F1GMfT3T"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fyro.slashdot.org%2Fstory%2F15%2F03%2F12%2F2229254%2Flapd-police-claim-helicopters-stop-crimes-before-they-happen%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://yro.slashdot.org/story/15/03/12/2229254/lapd-police-claim-helicopters-stop-crimes-before-they-happen?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://yro.slashdot.org/story/15/03/12/2229254/lapd-police-claim-helicopters-stop-crimes-before-they-happen?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7092863&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/qDd-E4okPIo" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-03-13T12:06:00+00:00</dc:date>
+<dc:subject>crime</dc:subject>
+<slash:department>bear-in-the-air</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>134</slash:comments>
+<slash:hit_parade>134,133,88,76,25,16,6</slash:hit_parade>
+<feedburner:origLink>http://yro.slashdot.org/story/15/03/12/2229254/lapd-police-claim-helicopters-stop-crimes-before-they-happen?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://science.slashdot.org/story/15/03/13/0237244/huge-ocean-confirmed-underneath-solar-systems-largest-moon?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Huge Ocean Confirmed Underneath Solar System's Largest Moon</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/WuLkyZGgROQ/huge-ocean-confirmed-underneath-solar-systems-largest-moon</link>
+<description>sciencehabit writes The solar system's largest moon, Ganymede, in orbit around Jupiter, harbors an underground ocean containing more water than all the oceans on Earth, according to new observations by the Hubble Space Telescope. Ganymede now joins Jupiter's Europa and two moons of Saturn, Titan and Enceladus, as moons with subsurface oceans&amp;mdash;and good places to look for life. Ceres, the largest object in the asteroid belt, may also have a subsurface ocean. The Hubble study suggests that the ocean can be no deeper than 330 kilometers below the surface.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Huge+Ocean+Confirmed+Underneath+Solar+System's+Largest+Moon%3A+http%3A%2F%2Fbit.ly%2F1AjiLOy"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fscience.slashdot.org%2Fstory%2F15%2F03%2F13%2F0237244%2Fhuge-ocean-confirmed-underneath-solar-systems-largest-moon%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://science.slashdot.org/story/15/03/13/0237244/huge-ocean-confirmed-underneath-solar-systems-largest-moon?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://science.slashdot.org/story/15/03/13/0237244/huge-ocean-confirmed-underneath-solar-systems-largest-moon?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7093311&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/WuLkyZGgROQ" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-03-13T09:35:00+00:00</dc:date>
+<dc:subject>space</dc:subject>
+<slash:department>under-the-sea</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>105</slash:comments>
+<slash:hit_parade>105,101,73,60,20,9,7</slash:hit_parade>
+<feedburner:origLink>http://science.slashdot.org/story/15/03/13/0237244/huge-ocean-confirmed-underneath-solar-systems-largest-moon?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://news.slashdot.org/story/15/03/13/0233249/uber-rival-lyft-raises-530m-will-beef-up-it?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Uber Rival Lyft Raises $530M, Will Beef Up IT</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/LEhUPde14dc/uber-rival-lyft-raises-530m-will-beef-up-it</link>
+<description>jfruh writes "Uber may seem like an unstoppable juggernaut, but its main carhailing service rival Lyft isn't giving up. The company just raised half a billion dollars in funding, much of it form Japanese investors. From the article: "Lyft has raised US$530 million in its latest funding round, and plans to use the money to beef up its IT staff, expand its footprint and boost existing services. Japanese e-commerce company Rakuten led the round. With the latest cash infusion, Lyft has raised a total of $862 million from investors. The ride-hailing company is now reportedly valued at $2.5 billion."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Uber+Rival+Lyft+Raises+%24530M%2C+Will+Beef+Up+IT%3A+http%3A%2F%2Fbit.ly%2F1CbM0cr"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fnews.slashdot.org%2Fstory%2F15%2F03%2F13%2F0233249%2Fuber-rival-lyft-raises-530m-will-beef-up-it%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://news.slashdot.org/story/15/03/13/0233249/uber-rival-lyft-raises-530m-will-beef-up-it?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://news.slashdot.org/story/15/03/13/0233249/uber-rival-lyft-raises-530m-will-beef-up-it?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7093299&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/LEhUPde14dc" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-03-13T07:01:00+00:00</dc:date>
+<dc:subject>business</dc:subject>
+<slash:department>more-money</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>48</slash:comments>
+<slash:hit_parade>48,45,26,16,5,1,0</slash:hit_parade>
+<feedburner:origLink>http://news.slashdot.org/story/15/03/13/0233249/uber-rival-lyft-raises-530m-will-beef-up-it?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://science.slashdot.org/story/15/03/12/2223236/berkeley-builds-a-heart-simulator?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Berkeley Builds a Heart Simulator</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/-x5QbdWoqOg/berkeley-builds-a-heart-simulator</link>
+<description>Zothecula writes The increasing number of biological structures being grown on chips in various laboratories around the world is rapidly replicating the entire gamut of major human organs. Now one of the most important of all &amp;ndash; a viable functioning heart &amp;ndash; has been added to that list by researchers at the University of California at Berkeley who have taken adult stem cells and grown a lattice of pulsing human heart tissue on a silicon device.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Berkeley+Builds+a+Heart+Simulator%3A+http%3A%2F%2Fbit.ly%2F1BAZFGo"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fscience.slashdot.org%2Fstory%2F15%2F03%2F12%2F2223236%2Fberkeley-builds-a-heart-simulator%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://science.slashdot.org/story/15/03/12/2223236/berkeley-builds-a-heart-simulator?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://science.slashdot.org/story/15/03/12/2223236/berkeley-builds-a-heart-simulator?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7092849&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/-x5QbdWoqOg" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-03-13T04:30:00+00:00</dc:date>
+<dc:subject>medicine</dc:subject>
+<slash:department>beat-goes-on</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>22</slash:comments>
+<slash:hit_parade>22,22,8,6,1,0,0</slash:hit_parade>
+<feedburner:origLink>http://science.slashdot.org/story/15/03/12/2223236/berkeley-builds-a-heart-simulator?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<textinput rdf:about="http://slashdot.org/search.pl">
+<title>Search Slashdot</title>
+<description>Search Slashdot stories</description>
+<name>query</name>
+<link>http://slashdot.org/search.pl</link>
+</textinput>
+</rdf:RDF>
