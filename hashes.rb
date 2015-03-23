@@ -40,6 +40,43 @@ def greeting(name, options = {})
   end
 end
 
+
+# hashes as parameters
+my_hash = {
+  "Herman"=>{"age"=>74, "gender"=>"other"}, 
+  "Lily"=>{"age"=>72, "gender"=>"other"}
+  }
+
+def change_hash(hash_param)
+  new_hash = {"age"=>444, "gender"=>"other"}
+  hash_param['Grandpa'] = new_hash
+end
+
+p my_hash
+change_hash(my_hash)
+p my_hash
+
+my_hash = {
+  "Herman"=>{"age"=>74, "gender"=>"other"}, 
+  "Lily"=>{"age"=>72, "gender"=>"other"}
+  }
+
+def dont_change_hash(hash_param)
+  new_hash = {"age"=>444, "gender"=>"other"}
+  local_hash = {}
+  hash_param.each { |k, v| local_hash[k] = v }
+  local_hash['Grandpa'] = new_hash
+  local_hash
+end
+
+p my_hash
+p dont_change_hash(my_hash)
+p my_hash
+
+
+
+
+
 #greeting("Bob")
 #greeting("Bob", {age: 62, city: "New York City"})
 
