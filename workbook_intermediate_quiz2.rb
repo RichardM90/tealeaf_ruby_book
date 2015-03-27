@@ -221,5 +221,118 @@ def exercise7
   mess_with_demographics(munster_hash)
   p munster_hash
 end
-exercise7
+#exercise7
+
+
+# In a previous exercise we created a monkey patch for the Ruby String class
+# which could be used to get a shortened version of the string. That solution 
+# uncerimoniously lopped off the end of the string at a specific character 
+# count. That works, but it can be ugly when it cuts a word down the middle.
+
+# Write a new patch called pretty_short_version which will return a string that 
+# ends on a word boundary and is never longer than the length parameter.
+
+# If the first word is too long, the solution should fall back to just 
+# shortening the first word.
+
+# Don't forget to leave room for and append the ellipsis at the end.
+
+
+# my answer
+class String
+  def pretty_shorten(len = 32)
+    ellipsis = '...'
+    len_less_ellipsis = len - ellipsis.length - 1
+    result = self.dup
+    if self.length > len
+      result = self[/^.{0,#{len_less_ellipsis}}\W/]
+      if result == nil
+        result = self[0..len_less_ellipsis]
+      end
+      result += ellipsis
+    end
+    return result
+  end
+end
+
+# the answer
+class String
+  def pretty_short_version( length )
+    result = self.dup
+    starting_length = self.length
+    if starting_length > length
+        length -= 1   # leave room for ellipsis
+        words = result.split
+        result = words.shift
+        result = result[0, length] if result.length > length
+        result += ' ' + words.shift while(!words.empty? && ((result.length + words.first.length + 1) < length))
+        result += "…"
+    end
+
+    return result
+  end
+end
+
+def exercise8
+  characters = [
+    {:character=>"Batman", :real_name=>"Bruce Wayne", :description=>"Comic book superhero who fights crime while wearing a costume loosely based on a bat"}, 
+    {:character=>"Robin", :real_name=>"Dick Grayson", :description=>"Loyal sidekick for batman -- much younger and smaller and sometimes portrayed by girl in later episodes"},
+    {:character=>"Commisioner Gordon", :real_name=>"James Gordon", :description=>"Police Commisioner of Gotham City and loyal friend of Batman -- frequently communicates secretly with Batman via signals or a special red BatPhone"}, 
+    {:character=>"Alfred", :real_name=>"Alfred", :description=>"The butler and also a key support player in many episodes providing communications, armament, and also moral support to Batman"},
+    {:character=>"OneWord", :real_name=>"One Word", :description=>"123456789012345678901234567890"},
+    {:character=>"LongWord", :real_name=>"One Long Word", :description=>"1234567890123456789012345678901234567890"}
+    ]
+
+    # my answer
+    characters.each do |hero|
+      p "Character: #{hero.fetch(:character).pretty_shorten}"
+      p "Real name: #{hero.fetch(:real_name).pretty_shorten}"
+      p "Description: #{hero.fetch(:description).pretty_shorten}"
+    end
+    
+    # the answer
+    characters.each{ |character| p character.values.map{|value| value.pretty_short_version(32) }.join("    ") }
+    
+end
+#exercise8
+
+
+# Method calls can take expressions as arguments. Suppose we define a function 
+# called rps as follows, which follows the classic rules of rock-paper-scissors 
+# game, but with a slight twist that it declares whatever hand was used in the 
+# tie as the result of that tie.
+# What is the result of the following call?
+def rps(fist1, fist2)
+  if (fist1 == "rock")
+    (fist2 == "paper") ? "paper" : "rock"
+  elsif (fist1 == "paper")
+    (fist2 == "scissors") ? "scissors" : "paper"
+  else
+    (fist2 == "rock") ? "rock" : "scissors"
+  end
+end
+
+# my answer = paper 
+def exercise9
+  puts rps( rps( rps("rock", "paper"), rps("rock", "scissors")), "rock")
+end
+# exercise9
+
+
+# Consider these two simple methods:
+def foo(param="no")
+  "yes"
+end
+
+def bar(param="no")
+  param == "no" ? "yes" : "no"
+end
+
+# What would be the output of this code?
+# my answer = no
+def exercise10
+  p maybe = bar(foo())
+end
+exercise10
+
 
