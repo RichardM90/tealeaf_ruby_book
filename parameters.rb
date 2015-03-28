@@ -25,6 +25,9 @@ end
 def str_concat(str)
   str += " world"
 end
+def str_assign(str)
+  str = " world"
+end
 
 str = "hello"
 before = "#{str}"
@@ -38,11 +41,20 @@ str_concat(str)
 after = "#{str}"
 put_result(before, after, "str_concat")
 
+str = "hello"
+before = "#{str}"
+str_assign(str)
+after = "#{str}"
+put_result(before, after, "str_assign")
+
 def arr_append(arr)
   arr << "world"
 end
 def arr_concat(arr)
   arr += ["world"]
+end
+def arr_assign(arr)
+  arr = ["world"]
 end
 def arr_push(arr)
   arr.push("world")
@@ -62,6 +74,12 @@ before = "#{arr}"
 arr_concat(arr)
 after = "#{arr}"
 put_result(before, after, "arr_concat")
+
+arr = ["hello"]
+before = "#{arr}"
+arr_assign(arr)
+after = "#{arr}"
+put_result(before, after, "arr_assign")
 
 arr = ["hello"]
 before = "#{arr}"

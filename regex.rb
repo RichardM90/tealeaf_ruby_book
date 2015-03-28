@@ -27,4 +27,26 @@ def example2
     has_a_b?("hockey")
     has_a_b?("golf")
 end
-example2
+#example2
+
+
+# The regexp pattern /\d0/ matches a single numeric digit with a zero immediatly
+# following it
+def multiple_of_ten?(string)
+  if /\d0/.match(string)
+    puts "#{string} is a multiple of ten"
+  else
+    puts "#{string} is NOT a multiple of ten"
+  end
+end
+def example3
+  multiple_of_ten?("10")
+  multiple_of_ten?("20")
+  multiple_of_ten?("21")
+  multiple_of_ten?("100")
+  multiple_of_ten?("1.0")
+  multiple_of_ten?("1.10")
+end
+example3
+
+  
